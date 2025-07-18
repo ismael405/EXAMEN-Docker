@@ -22,7 +22,7 @@ Une image Docker est un modèle figé contenant tout le nécessaire pour exécut
 #### Conteneur
 Un conteneur est une instance d’une image Docker, capable d'exécuter des processus de manière isolée via `cgroups` et `namespaces`.
 
-![Conteneur](concept.png)
+![Conteneur]
 
 ---
 
