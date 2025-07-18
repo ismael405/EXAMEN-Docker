@@ -65,7 +65,7 @@ docker rm -f c1
 
 
 
-## 💾 Cheat Sheet : Docker Volumes
+## Cheat Sheet : Docker Volumes
 
 Un volume est un mécanisme pour stocker des données persistantes dans Docker.
 
